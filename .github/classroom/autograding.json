@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Collects input for a 1-room house (Iterative)",
+      "setup": "",
+      "run": "python test/test_iterative_basic.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Collects input for a 1-room house (Recursive)",
+      "setup": "",
+      "run": "python test/test_recursive_basic.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Calculates the square footage of a 3-room house (Iterative)",
+      "setup": "",
+      "run": "python test/test_iterative.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Calculates the square footage of a 3-room house (Recursive)",
+      "setup": "",
+      "run": "python test/test_recursive.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Collects input the appropriate number of times for a 3-room house (Iterative)",
+      "setup": "",
+      "run": "python test/test_iterative_count.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Collects input the appropriate number of times for a 3-room house (Recursive)",
+      "setup": "",
+      "run": "python test/test_recursive_count.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

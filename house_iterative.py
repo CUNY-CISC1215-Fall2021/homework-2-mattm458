@@ -1,0 +1,1 @@
+rooms = int(input("How many rooms are in your house? "))
